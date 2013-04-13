@@ -1,0 +1,9 @@
+These Perl mini-projects will conjugate Italian verbs through 7 "tenses".
+
+It is not a complete solution to the problem, for any who know Italian, but
+it is an interesting problem set.
+
+The only technique not currently used (as of 4/13/2013) id "overloaded
+operators".  But classes, objects, ties variables, and anonymous variables
+are used, as well as file handles references to provide alternate input and
+output paths.

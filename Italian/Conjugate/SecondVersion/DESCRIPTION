@@ -1,0 +1,12 @@
+This version of the verb conjugation method may be considered by some to be 
+over the top.
+
+But we know those people are just silly.
+
+This version does not have the more complex "alternate input/output" of
+the first version, but does use three classes.  Two classes implement a "tie"
+variable for two "locked arrays".  The third class usersd these two tied classes
+and fixed lists of "endings" for Italian verb conjugations.
+
+The last part is a PErl script that has very little code, relying on the three
+classes/objects to do the heavy lifting.

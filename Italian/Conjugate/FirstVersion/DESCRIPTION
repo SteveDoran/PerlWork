@@ -1,0 +1,9 @@
+This version of the Italian verb conjugation is a 1-file approach.  But it does
+have certain complexities that the other versions do not have.
+
+It uses anonymous hashes and arrays to create a list of"endings" used to create
+7 of the 14 verb conjugations.  Not a perfect solution to the problem, but
+an interesting problem set.
+
+This Perl script also implements several command-line options and presents an
+"alternate input/output" capability using file handles.
